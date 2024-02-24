@@ -1,0 +1,24 @@
+{
+    "images": [
+        {
+            "url": "https://picsum.photos/seed/city1/700/400",
+            "alt": "carousel img1"
+        },
+        {
+            "url": "https://picsum.photos/seed/city2/700/400",
+            "alt": "carousel img2"
+        },
+        {
+            "url": "https://picsum.photos/seed/city3/700/400",
+            "alt": "carousel img3"
+        },
+        {
+            "url": "https://picsum.photos/seed/cit4y/700/400",
+            "alt": "carousel img4"
+        },
+        {
+            "url": "https://picsum.photos/seed/city5/700/400",
+            "alt": "carousel img5"
+        }
+    ]
+}
