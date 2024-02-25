@@ -4,15 +4,15 @@
     justify-content: center;
     align-items: center;
     margin: auto;
-    width: 700px;
-    height: 400px;
+    max-width: 700px;
+    max-height: 400px;
 }
 
 .slider {
     border-radius: 15px;
     width: 100%;
     height: 100%;
-    box-shadow: 1px 1px 24px 0px rgba(0,0,0,0.44);
+    box-shadow: 1px 1px 24px 0px rgba(0,0,0,0.30);
 }
 
 .slider-hidden {
@@ -58,5 +58,11 @@
 
 .btn-inactive {
     background-color: rgb(156, 156, 156);
+}
+
+@media only screen and (max-width: 600px) {
+    .carousel {
+        margin: .75rem;
+    }
 }
 
